@@ -24,4 +24,5 @@
 
 
 ###### 仍然有部分不明白的地方,但此次学习的目的重在接触，先有个初步的了解，待后续研究
+###### 落伍了，有人14年就开始研究《机器学习经典算法详解及Python实现》：http://blog.csdn.net/suipingsp/article/details/42101139/ 
 ###### 原文地址： https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651657214&idx=1&sn=206923dcb7d470b5de0739b52d2331a2&chksm=bd4c346d8a3bbd7b96de4a000147a8b882f4f9b7fc9fba34b80ac09e6b4b408de234fe3a681d&mpshare=1&scene=1&srcid=0216VDNAk5glxkRAfNhqpmQi&pass_ticket=sPTUUZyiH3BLdMk19XfvjIgEC0lZ44OpFDCan39HBtFyH3u2mNVg00ZdTbugoZ4G#rd
