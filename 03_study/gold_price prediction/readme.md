@@ -11,13 +11,13 @@
 ##### python3用到的库： sklearn(LinearRegression)、pandas、numpy、matplotlib、seaborn、fix_yahoo_finance
 
 ##### 原始数据图
-https://github.com/xzshedon/data_analysis/raw/master/03_study/gold_price prediction/pic/source.png
+https://github.com/xzshedon/data_analysis/tree/master/03_study/gold_price%20prediction/pic/source.png
 ##### 3天，9天均值，x值
-https://github.com/xzshedon/data_analysis/raw/master/03_study/gold_price prediction/pic/s3_s9_avg.png
+https://github.com/xzshedon/data_analysis/tree/master/03_study/gold_price%20prediction/pic/s3_s9_avg.png
 ##### Y值
-https://github.com/xzshedon/data_analysis/raw/master/03_study/gold_price prediction/pic/y.png
+https://github.com/xzshedon/data_analysis/tree/master/03_study/gold_price%20prediction/pic/y.png
 ##### 训练后线性值图：黄线是实际值、蓝线是预测值
-https://github.com/xzshedon/data_analysis/raw/master/03_study/gold_price prediction/pic/linear.png
+https://github.com/xzshedon/data_analysis/tree/master/03_study/gold_price%20prediction/pic/linear.png
 
 
 
