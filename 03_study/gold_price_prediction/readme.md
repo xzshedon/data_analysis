@@ -17,7 +17,7 @@
 ##### Y值
 ![](https://github.com/xzshedon/data_analysis/blob/master/03_study/gold_price_prediction/pic/y.png)
 ##### 训练后线性值图：黄线是实际值、蓝线是预测值
-![](https://github.com/xzshedon/ata_analysis/blob/master/03_study/gold_price_prediction/pic/linear.png )
+![](https://github.com/xzshedon/data_analysis/blob/master/03_study/gold_price_prediction/pic/linear.png )
 
 
 
