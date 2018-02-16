@@ -1,0 +1,10 @@
+签名生成网站
+
+需要安装：
+flask
+requests
+beautifulsoup
+
+抄袭 http://www.uustv.com/ 签名功能
+
+仅作为学习
