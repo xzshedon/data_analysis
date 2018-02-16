@@ -8,7 +8,7 @@ string1 = '{"name":"Sim","gender":"Male","age":28,"province":"江苏"}'
 string2 = '{"name":"Lily","gender":"Feale","age":25,"province":"湖北"}'
 
 # 查看数据类型
-type(string)
+type(string1)
 
 # 将json格式转换为字典
 dict1 = json.loads(string1)
